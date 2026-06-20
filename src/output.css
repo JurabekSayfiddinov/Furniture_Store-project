@@ -683,6 +683,9 @@
     font-size: var(--text-xl);
     line-height: var(--tw-leading, var(--text-xl--line-height));
   }
+  .text-\[12px\] {
+    font-size: 12px;
+  }
   .text-\[15px\] {
     font-size: 15px;
   }
@@ -711,6 +714,9 @@
   .font-semibold {
     --tw-font-weight: var(--font-weight-semibold);
     font-weight: var(--font-weight-semibold);
+  }
+  .text-\[\#8CC004\] {
+    color: #8CC004;
   }
   .text-\[\#9DC82C\] {
     color: #9DC82C;
