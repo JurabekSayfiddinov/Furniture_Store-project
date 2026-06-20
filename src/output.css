@@ -338,6 +338,12 @@
   .mb-\[100px\] {
     margin-bottom: 100px;
   }
+  .mb-\[200px\] {
+    margin-bottom: 200px;
+  }
+  .mb-\[500px\] {
+    margin-bottom: 500px;
+  }
   .flex {
     display: flex;
   }
@@ -649,8 +655,20 @@
   .pt-\[15px\] {
     padding-top: 15px;
   }
+  .pt-\[20px\] {
+    padding-top: 20px;
+  }
+  .pt-\[40px\] {
+    padding-top: 40px;
+  }
   .pt-\[100px\] {
     padding-top: 100px;
+  }
+  .pt-\[150px\] {
+    padding-top: 150px;
+  }
+  .pt-\[200px\] {
+    padding-top: 200px;
   }
   .pb-\[50px\] {
     padding-bottom: 50px;
